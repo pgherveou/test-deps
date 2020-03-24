@@ -8,7 +8,7 @@
   "main": "lib/dep-a.js",
   "dependencies": {
     "@pgherveou/dep-b": "2.0.0",
-    "@pgherveou/dep-c": "2.0.0"
+    "@pgherveou/dep-c": "2.1.x"
   },
   "directories": {
     "lib": "lib",

@@ -7,8 +7,8 @@
   "license": "ISC",
   "main": "lib/dep-a.js",
   "dependencies": {
-    "@pgherveou/dep-b": "^1.0.1",
-    "@pgherveou/dep-c": "^1.0.1"
+    "@pgherveou/dep-b": "2.0.0",
+    "@pgherveou/dep-c": "2.0.0"
   },
   "directories": {
     "lib": "lib",

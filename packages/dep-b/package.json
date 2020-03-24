@@ -1,13 +1,13 @@
 {
   "name": "@pgherveou/dep-b",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "> TODO: description",
   "author": "Pierre Guillaume Herveou <pgherveou@lyft.com>",
   "homepage": "https://github.com/pgherveou/test-deps#readme",
   "license": "ISC",
   "main": "lib/dep-b.js",
   "dependencies": {
-    "@pgherveou/dep-c": "2.x"
+    "@pgherveou/dep-c": "^2.1.0"
   },
   "directories": {
     "lib": "lib",

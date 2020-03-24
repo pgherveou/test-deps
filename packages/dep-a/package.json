@@ -6,6 +6,11 @@
   "homepage": "https://github.com/pgherveou/test-deps#readme",
   "license": "ISC",
   "main": "lib/dep-a.js",
+  "dependencies": {
+    "@pgherveou/dep-a": "0.0.0",
+    "@pgherveou/dep-b": "0.0.0",
+    "@pgherveou/dep-c": "0.0.0"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
